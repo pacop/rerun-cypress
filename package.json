@@ -1,0 +1,28 @@
+{
+  "name": "rerun-cypress",
+  "version": "0.1.0",
+  "description": "Rerun failed Cypress examples automatically",
+  "main": "./index.js",
+  "scripts": {},
+  "bin": {
+    "rerun-cypress": "bin/rerun-cypress"
+  },
+  "author": "pacopa.93@gmail.com",
+  "license": "GPLv3",
+  "homepage": "https://github.com/pacop/rerun-cypress",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pacop/rerun-cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pacop/rerun-cypress/issues"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0"
+  },
+  "peerDependencies": {
+    "cypress": "^3.1.0"
+  }
+}
