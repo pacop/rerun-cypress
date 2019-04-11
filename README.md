@@ -25,3 +25,4 @@ The command _rerun-cypress_ accepts the following parameters:
 * `browser`: which browser is used to run tests. By default is uses `electron` browser.
 * `record`: whether tests should be recorded. By default they are not recorded.
 * `headed`: by default tests are run in headlessly, but you can force browser to be shown.
+* `exclude-spec`: exclude files to be run.
