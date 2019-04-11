@@ -1,6 +1,6 @@
 {
   "name": "rerun-cypress",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Rerun failed Cypress examples automatically",
   "main": "./index.js",
   "scripts": {},
